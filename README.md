@@ -1,14 +1,14 @@
-# Hola, soy Irma 👋
+# Hello, I'm Irma 👋
 
-## 👩‍💻 Sobre Mí
+## 👩‍💻 About Me
 
-Soy una apasionada Data Scientist con experiencia en la creación de modelos predictivos y análisis de datos para aportar soluciones basadas en datos. Me encanta explorar nuevas tecnologías y aplicar mis conocimientos en proyectos que desafían mi creatividad y habilidades analíticas.
+I am a passionate Data Scientist with experience in creating predictive models and data analysis to provide data-driven solutions. I love exploring new technologies and applying my knowledge to projects that challenge my creativity and analytical skills.
 
-- 🌱 Actualmente estoy aprendiendo **nuevas técnicas de Machine Learning y Deep Learning**.
-- 💡 Interesada en **Inteligencia Artificial, Análisis de Datos, y Desarrollo de Software**.
-- 📫 Puedes contactarme en: irmasanchezrubio0@gmail.com
+- 🌱 I'm currently learning **advanced techniques in Machine Learning and Deep Learning**.
+- 💡 Interested in **Artificial Intelligence, Data Analysis, and Software Development**.
+- 📫 You can reach me at: irmasanchezrubio0@gmail.com
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
@@ -17,16 +17,19 @@ Soy una apasionada Data Scientist con experiencia en la creación de modelos pre
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-## 📊 Mis Intereses
+## 📊 My Interests
 
-- **Machine Learning**: Me fascina desarrollar modelos que aprenden y mejoran con el tiempo.
-- **Análisis de Datos**: Disfruto descubriendo insights y patrones en conjuntos de datos complejos.
-- **Inteligencia Artificial en la Nube**: Experimentar con servicios de cloud para desplegar y escalar soluciones de IA.
+- **Machine Learning**: I am fascinated by developing models that learn and improve over time.
+- **Data Analysis**: I enjoy uncovering insights and patterns in complex datasets.
+- **Cloud AI**: Experimenting with cloud services to deploy and scale AI solutions.
 
-## 🤝 Conéctate Conmigo
+## 🤝 Connect With Me
 
 - LinkedIn: [Irma Sánchez Rubio](https://www.linkedin.com/in/irma-s%C3%A1nchez-rubio/)
-- GitHub: [@irmasanchez](https://github.com/irmasanchez)
+[![](https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/irma-s%C3%A1nchez-rubio/)
+- GitHub: [irmasanchez](https://github.com/irmasanchez)
+
+[![](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/irmasanchez)
 
 <!--
 **irmasanchez/irmasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
