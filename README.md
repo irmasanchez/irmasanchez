@@ -1,4 +1,4 @@
-# Hola, soy [Irma] 👋
+# Hola, soy Irma 👋
 
 ## 👩‍💻 Sobre Mí
 
