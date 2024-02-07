@@ -25,9 +25,8 @@ Soy una apasionada Data Scientist con experiencia en la creación de modelos pre
 
 ## 🤝 Conéctate Conmigo
 
-- LinkedIn: [TuPerfil](https://linkedin.com/in/tuperfil)
-- Twitter: [@tuTwitter](https://twitter.com/tuTwitter)
-- GitHub: [tuUsuario](https://github.com/tuUsuario)
+- LinkedIn: [TuPerfil](https://www.linkedin.com/in/irma-s%C3%A1nchez-rubio/)
+- GitHub: [tuUsuario](https://github.com/irmasanchez)
 
 <!--
 **irmasanchez/irmasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
