@@ -27,9 +27,9 @@ I am a passionate Data Scientist with experience in creating predictive models a
 
 - LinkedIn: [Irma Sánchez Rubio](https://www.linkedin.com/in/irma-s%C3%A1nchez-rubio/)
 [![](https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/irma-s%C3%A1nchez-rubio/)
-- GitHub: [irmasanchez](https://github.com/irmasanchez)
+- GitHub: [irmasanchez](https://github.com/irmasanchez)[![](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/irmasanchez)
 
-[![](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/irmasanchez)
+
 
 <!--
 **irmasanchez/irmasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
